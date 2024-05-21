@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleSignInAppUi</string>
+    <string name="Logintxt">Login</string>
+</resources>
